@@ -12,7 +12,7 @@ const zooAnimals = [
 const possibilities = [
   animals.dogs('my dog'),
   animals.cats('my cat'),
-  animals.orangatang('my monkey')
+  animals.orangutan('my monkey')
 ]
 
 for (var i=0; i<10; i++) {
